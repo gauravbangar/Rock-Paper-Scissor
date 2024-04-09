@@ -1,2 +1,35 @@
-# Stone Paper Scissor
-  Rock Paper Scissors Game  This project is a simple implementation of the classic game "Rock Paper Scissors" using HTML, CSS, and JavaScript. The game allows two players to compete against each other, making their choices of rock, paper, or scissors, and determining the winner based on the game's rules.  Features: Two-player mode: Players can compete against each other locally on the same device. Responsive Design: The game is designed to be responsive and can adapt to different screen sizes, making it playable on both desktop and mobile devices. User-friendly Interface: The interface is intuitive and easy to use, providing clear instructions and feedback to the players. Dynamic Results Display: The game dynamically displays the results of each round, including the choices made by both players and the outcome (win, lose, or draw). Game Logic: The game implements the logic of the Rock Paper Scissors game, determining the winner based on the choices made by the players. Play Again: After each round, players have the option to play again without refreshing the page. Technologies Used: HTML: Used for structuring the content and elements of the game. CSS: Used for styling the visual components and layout of the game. JavaScript: Used for implementing the game logic, handling user interactions, and updating the UI dynamically. How to Play: Open the game in a web browser. Choose whether you want to play as Player 1 or Player 2. Each player selects their choice of rock, paper, or scissors. The game determines the winner based on the choices made by both players. The result of each round is displayed, indicating whether Player 1, Player 2, or both players have won. Players have the option to play again to continue the game. 
+Certainly! Below is a sample README.md file for a Rock Paper Scissors game on GitHub:
+
+Rock Paper Scissors Game
+
+Welcome to the Rock Paper Scissors game repository! This project is a simple implementation of the classic game "Rock Paper Scissors" using HTML, CSS, and JavaScript.
+
+Table of Contents
+-Introduction
+-Features
+-Demo
+
+Introduction
+Rock Paper Scissors is a widely known and loved game that pits two players against each other in a battle of choices. This project aims to bring that excitement to the digital world, allowing players to enjoy the game either against a friend or against the computer.
+
+Features
+Two-player mode: Challenge a friend locally and compete against each other.
+Single-player mode: Play against the computer and test your skills.
+Responsive design: Enjoy the game seamlessly across different devices and screen sizes.
+Dynamic UI: Experience smooth transitions and updates as you play.
+Game logic: Implemented in JavaScript to determine the winner based on the classic rules of Rock Paper Scissors.
+Play again: Option to restart the game with a single click.
+Demo
+Check out the live demo here.Introduction
+Rock Paper Scissors is a widely known and loved game that pits two players against each other in a battle of choices. This project aims to bring that excitement to the digital world, allowing players to enjoy the game either against a friend or against the computer.
+
+Features
+Two-player mode: Challenge a friend locally and compete against each other.
+Single-player mode: Play against the computer and test your skills.
+Responsive design: Enjoy the game seamlessly across different devices and screen sizes.
+Dynamic UI: Experience smooth transitions and updates as you play.
+Game logic: Implemented in JavaScript to determine the winner based on the classic rules of Rock Paper Scissors.
+Play again: Option to restart the game with a single click.
+Demo
+Check out the live demo
+here.  :https://gauravbangar.github.io/Rock-Paper-Scissor/
